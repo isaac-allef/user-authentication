@@ -18,7 +18,7 @@ userRouter.post('/users', async (request, response) => {
 
         response.json(user);
     }catch(err) {
-        response.status(400).json({ error: err.message });
+        return response.status(400).json({ error: err.message });
     }
 });
 
