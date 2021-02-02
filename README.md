@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="" width="800"/>
+   <img src="https://github.com/isaac-allef/user-authentication/blob/main/public/jwt-logo.png" width="150"/>
 </p>
 
 <h1 align="center">
