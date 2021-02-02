@@ -49,10 +49,10 @@ $ sudo docker run --name user-authentication -e POSTGRES_PASSWORD=1234 -p 5433:5
 $ CREATE DATABASE users;
 
 # Clone this repository
-$ git clone https://github.com/isaac-allef/user-authentication
+$ git clone https://github.com/isaac-allef/user-authentication-jwt
 
 # Go into the repository
-$ cd user-authentication
+$ cd user-authentication-jwt
 
 # Install dependencies
 $ yarn install
