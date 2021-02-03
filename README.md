@@ -7,15 +7,24 @@
 </h1>
 
 <h4 align="center">
-  This is a back end of user authentication and authorization.
+  This is a authentication and authorization back end of users.
 </h4>
 
 
 <p align="center">
+  <a href="#flowchart">Flowchart</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rocket-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
+</p>
+
+## 👨‍🏫️ Flowchart
+
+In order to understand the authentication and authorization flow of users with JWT, I've created the following flowchart:
+
+<p align="center">
+   <img src="https://github.com/isaac-allef/user-authentication-jwt/blob/main/public/flowchart.png"/>
 </p>
 
 ## :rocket: Technologies
